@@ -6,7 +6,7 @@ This is the introductory line.
 
 Section 2
 
-Section 3 - akshath changed this
+Section 3 
 
 Section 5 - suhas changed this
 
